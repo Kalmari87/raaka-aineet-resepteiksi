@@ -1,0 +1,32 @@
+[
+  {
+    "nimi": "Makaronilaatikko",
+    "ainekset": ["pasta", "jauheliha", "maito", "munat", "juusto"],
+    "vaiheet": [
+      "Keitä pasta",
+      "Paista jauheliha",
+      "Sekoita pasta, jauheliha, maito ja munat",
+      "Laita uunivuokaan, ripottele juustoa päälle",
+      "Paista 200°C noin 30–40 min"
+    ]
+  },
+  {
+    "nimi": "Kermainen kanapasta",
+    "ainekset": ["pasta", "kana", "kerma", "sipuli", "valkosipuli"],
+    "vaiheet": [
+      "Keitä pasta",
+      "Paista kana ja sipulit",
+      "Lisää kerma ja hauduta",
+      "Yhdistä pasta kastikkeeseen"
+    ]
+  },
+  {
+    "nimi": "Tomaattikeitto",
+    "ainekset": ["tomaattimurska", "sipuli", "valkosipuli", "kerma", "öljy"],
+    "vaiheet": [
+      "Kuullota sipulit öljyssä",
+      "Lisää tomaattimurska ja kiehauta",
+      "Lisää kerma ja soseuta"
+    ]
+  }
+]
